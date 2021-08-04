@@ -1,0 +1,1 @@
+/home/highright/IdeaProjects/TestPlugin/build/classes/java/main/com/github/highright1234/hrspectator/Command.class:/home/highright/IdeaProjects/TestPlugin/build/classes/java/main/com/github/highright1234/hrspectator/HRSpectator$1.class:/home/highright/IdeaProjects/TestPlugin/build/classes/java/main/com/github/highright1234/hrspectator/HRSpectator.class

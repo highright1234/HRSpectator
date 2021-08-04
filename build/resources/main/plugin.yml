@@ -1,0 +1,11 @@
+name: TestPlugin
+main: com.github.highright1234.Main
+version: 1.0
+depend:
+  - ProtocolLib
+commands:
+  HRSpectator:
+    usage: /hrspectator
+    aliases: ["s", "hrspectator"]
+    description: "HRSpectator turn on/off command"
+    permission: HRSpectator.command
